@@ -8,6 +8,8 @@ public class D1 {
 		System.out.println("6");
 	    System.out.println("7");
 	    System.out.println("74");
+	    System.out.println("75");
+		
 	}
 
 }

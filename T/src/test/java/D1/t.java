@@ -12,6 +12,11 @@ public class t {
 		System.out.println("Bye1");
 		System.out.println("Bye1");
 		
+		System.out.println("6");
+		System.out.println("7");
+		System.out.println("8");
+		
+		
 		
 	}
 

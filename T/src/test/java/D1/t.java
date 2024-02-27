@@ -8,6 +8,9 @@ public class t {
 		System.out.println("Hello");
 		System.out.println("Bye");
 		System.out.println("Bye");
+		System.out.println("Hello1");
+		System.out.println("Bye1");
+		System.out.println("Bye1");
 		
 		
 	}
